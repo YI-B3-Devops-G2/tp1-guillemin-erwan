@@ -5,3 +5,9 @@ TP 1 VM et Vagrant
 mail: erwan.guillemin@ynov.com
 
 github_username: Erwan0
+
+
+## Commande
+
+Lancer Vagrant
+vagrant up
