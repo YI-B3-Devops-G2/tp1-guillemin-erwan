@@ -7,9 +7,11 @@ mail: erwan.guillemin@ynov.com
 github_username: Erwan0
 
 
-## Commande
+## Installation
 
-Lancer Vagrant
+1 - Cloner le repo
+2 - Aller dans le dossier "docker" avec votre terminal.
+3 - Lancer la commande suivante:
 ```
-vagrant up
+docker-compose up
 ```
